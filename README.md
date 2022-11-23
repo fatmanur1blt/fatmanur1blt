@@ -5,7 +5,7 @@ I work on software and web development.
 <br/><br/>
 I'm currently doing more work on web development. I'm trying to improve myself in front-end development. I have knowledge about Html,Css, Javascript, Bootstrap, Sass, React(basic level).
 <br/><br/>
-I love teaching, engineering and writing. Also, I am writing a blog, I share information about the software on Medium.
+I love learning, engineering and software. Also, I am writing a blog, I share information about the software on Medium.
 <br/>
 💬 Medium : https://medium.com/@fatmanurbulut
 <br/><br/>
