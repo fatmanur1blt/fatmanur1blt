@@ -3,7 +3,7 @@ I'am Fatma,
 <br/><br/>
 I work on software and web development.
 <br/><br/>
-I'm currently doing more work on web development. I'm trying to improve myself in front-end development. I have knowledge about Html,Css, Javascript, Bootstrap, Sass, React(basic level).
+I'm currently doing more work on web development. I'm trying to improve myself in front-end development. I have knowledge about Html,Css, Javascript, Bootstrap, Sass, React.
 <br/><br/>
 I love learning, engineering and software. Also, I am writing a blog, I share information about the software on Medium.
 <br/>
