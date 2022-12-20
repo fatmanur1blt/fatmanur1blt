@@ -1,5 +1,5 @@
 ### 👋 Hi there,
-I'am Fatma,
+I'm Fatma,
 <br/><br/>
 I work on software and web development.
 <br/><br/>
