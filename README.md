@@ -7,7 +7,7 @@ I'm currently doing more work on web development. I'm trying to improve myself i
 <br/><br/>
 I love learning, engineering and software. Also, I am writing a blog, I share information about the software on Medium.
 <br/><br/>
-🌱 I’m currently learning React.
+🌱 I’m currently learning Redux.
 <br/><br/>
 📫 How to reach me: 
 <br/><br/>
